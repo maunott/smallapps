@@ -1,0 +1,5 @@
+Kopioi prisma-kansion sisältö projektisi prisma-kansioon ja 
+suorita npx prisma generate. Data.db-tiedosto on valmis
+ sqlite-tietokanta, jonka malli on määritelty 
+ schema.prisma-tiedostossa. Kannassa on 313 kunnan tiedot, 
+ voit selata tietoja Prisma Studiolla.

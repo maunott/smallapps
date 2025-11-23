@@ -1,0 +1,1 @@
+- 📦 Small apps (activity, loans, shop ym.): https://github.com/maunott/smallapps

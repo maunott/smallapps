@@ -1,0 +1,40 @@
+
+.App {
+    border: 1px solid gray;
+    margin: auto;
+    padding:0px;
+    max-width: 600px;
+}
+.saatavat{
+    width: 100%;
+    border: 1px solid gray;
+    color: green;
+}
+.velat {
+    width: 100%;
+    border: 1px solid gray;
+    color:red;
+}
+td{
+    border-right: 1px solid gray;
+    border-top:1px solid gray;
+    width: 50%;
+}
+.lisaavelka {
+    font-size: 10px;
+    width: 10%;
+    margin:0;
+    padding: 0;
+    margin-left: 1%;
+}
+input{
+  margin-left:2%;
+  width: 35%;
+}
+.syotto {
+    width: 100%;
+   
+    float: right;
+    margin:0;
+    padding: 0;
+}
